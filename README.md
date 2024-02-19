@@ -133,8 +133,10 @@ python ./scripts/inference.py
 
 ## Links:
 * [Данные](https://www.kinopoisk.ru/) для конвертации в эмодзи
-* [Датасет](https://huggingface.co/datasets/MichaelR207/MultiSim)
-* [T5 модель](https://huggingface.co/IlyaGusev/rut5_base_sum_gazeta)
+* [Оригинальный датасет](https://huggingface.co/datasets/MichaelR207/MultiSim) для обучения
+* [Модернизированный датасет](https://huggingface.co/datasets/KabanovDenis/MultiSim_ru) для обучения (оставлены только записи, что включают русский язык)
+* [Оригинальная T5 модель](https://huggingface.co/IlyaGusev/rut5_base_sum_gazeta)
+* [Дообученная T5 модель](https://huggingface.co/KabanovDenis/t5_ru_finetuned)
 * Другие [модели](https://github.com/IlyaGusev/summarus) для суммаризации русскоязычного текста
 * [TorchMoji](https://github.com/huggingface/torchMoji)
 * [Navec](https://github.com/natasha/navec) для векторизации слов
