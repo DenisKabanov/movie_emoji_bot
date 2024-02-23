@@ -1,2 +1,2 @@
 В этой папке должен быть созданный обучающий датасет, но он имеет слишком большой размер для github, поэтому вот ссылка на него в Hugging Face:
-MultiSim_ru: https://huggingface.co/datasets/KabanovDenis/MultiSim_ru
+* MultiSim_ru: https://huggingface.co/datasets/KabanovDenis/MultiSim_ru
